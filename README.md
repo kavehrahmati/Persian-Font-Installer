@@ -1,11 +1,12 @@
-# Persian-Font-Installer
-Long time ago during ZAK (Zero Administration Kit) implementation on windows NT 4.0 Domain workstations up to now, 
-me and some of my colleagues always looking for easy installation of apps and tools for windows. 
-One of issues that we found is a way to install fonts over client’s computers. 
-So, after 10 edition of my installer the new one (Version 11 or 2026) made with built in 7zip Self-Extracting Archive installer called 7zSD.
+Long time ago during ZAK (Zero Administration Kit) implementation on windows NT 4.0 Domain workstations up to now, me and some of my colleagues always looking for easy installation of apps and tools for windows. 
+One of issues that we found is a way to install fonts over client’s computers. So, after 10 edition of my installer the new one (Version 11 or 2026) made with built in 7zip Self-Extracting Archive installer called 7zSD.
 sfx and update the font collection with 513 .ttf font that most of them is Persian supported fonts.
 
+
+
 Font List:
+
+
 ABank
 ADastan
 AFarhood
