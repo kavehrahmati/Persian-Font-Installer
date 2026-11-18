@@ -1,0 +1,1 @@
+copy /b 7zSD.sfx + config.txt + pfonts.7z .\FontInstaller11.exe 

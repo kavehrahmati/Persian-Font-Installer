@@ -1,0 +1,5 @@
+;!@Install@!UTF-8!
+Title="Persian Font Installer 2026"
+BeginPrompt="Do you want to install the Persian Font Installer 2026?"
+ExecuteFile="Installer.bat"
+;!@InstallEnd@!
